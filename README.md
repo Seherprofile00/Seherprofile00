@@ -1,10 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Sehar Fatima</h1>
+<h1 align="center" color="red" >Hi 👋, I'm Sehar Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
 
+
+![—Pngtree—e learning programmer with a_6712439 (1)](https://github.com/Seherprofile00/pic/assets/160250174/8469c3a3-5734-4334-85e2-55043d0e5c4a)
 
 
 
