@@ -1,9 +1,6 @@
 
 
-
-
-
-al-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo<h1 align="center">Hi 👋, I'm Sehar Fatima</h1>
+<h1 align="center">Hi 👋, I'm Sehar Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
@@ -13,7 +10,6 @@ al-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://deve
 
 
 
-(https://github.com/Seherprofile00/Seherprofile00/assets/160250174/274a429a-8ff6-4a21-800d-5f86dd1b2115)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seherprofile00&label=Profile%20views&color=0e75b6&style=flat" alt="seherprofile00" /> </p>
